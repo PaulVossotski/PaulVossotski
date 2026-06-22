@@ -35,13 +35,38 @@ program and building my first professional portfolio, one week at a time. 🚀
 ### 📈 My GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PaulVossotski&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PaulVossotski&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulVossotski&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulVossotski&theme=tokyonight&hide_border=true" />
 </p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PaulVossotski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+### 📊 Contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulVossotski&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-vysotski-b500391bb)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vossotskipaul@gmail.com)
+
+---
+
+<p align="center"><i>"Data is the new oil, but analytics is the combustion engine." — Peter Sondergaard</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PaulVossotski&style=flat-square&color=4479A1" alt="profile views" />
+</p></p>
 
 ### 📫 Find me
 
